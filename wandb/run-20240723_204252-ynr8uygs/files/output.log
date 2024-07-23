@@ -1,0 +1,2 @@
+
+The config attributes {'unet': ('diffusers', 'UNet2DModel'), 'scheduler': ('diffusers', 'DDPMScheduler')} were passed to DDPMScheduler, but are not expected and will be ignored. Please verify your scheduler_config.json configuration file.
