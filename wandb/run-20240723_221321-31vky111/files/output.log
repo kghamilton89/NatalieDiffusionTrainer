@@ -1,0 +1,14 @@
+DatasetDict({
+    train: Dataset({
+        features: ['image', 'label'],
+        num_rows: 78
+    })
+})
+DatasetDict({
+    train: Dataset({
+        features: ['image', 'label'],
+        num_rows: 78
+    })
+})
+{'image': <PIL.Image.Image image mode=RGB size=5878x4328 at 0x1789D7C50>, 'label': 0}
+An error occurred: stack expects each tensor to be equal size, but got [4, 256, 256] at entry 0 and [3, 256, 256] at entry 1

@@ -1,0 +1,48 @@
+{
+    "os": "macOS-14.2.1-arm64-arm-64bit",
+    "python": "3.11.7",
+    "heartbeatAt": "2024-07-23T20:02:38.355725",
+    "startedAt": "2024-07-23T20:02:37.175155",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/kghamilton89/NatalieDiffusionTrainer.git",
+        "commit": "b01a4a0b849b2262eb329c1205e9ab05cc7732f3"
+    },
+    "email": "29099829+kghamilton89@users.noreply.github.com",
+    "root": "/Users/kenneth.hamilton/Desktop/NatalieDiffusionTrainer",
+    "host": "MacBookPro",
+    "username": "kenneth.hamilton",
+    "executable": "/Users/kenneth.hamilton/Desktop/NatalieDiffusionTrainer/venv/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "cpu_freq": {
+        "current": 3228,
+        "min": 600,
+        "max": 3228
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3228,
+            "min": 600,
+            "max": 3228
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 13.413887023925781
+        }
+    },
+    "gpuapple": {
+        "type": "Apple M1 Pro",
+        "vendor": "sppci_vendor_Apple"
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
